@@ -11,7 +11,7 @@ This repository contains solutions for the CloudVandana Associate Software Engin
   - Short bio
   - Social media icons
   - Hover animation
-- Files: `profile-card/index.html`, `profile-card/style.css`
+- Files: `C:\Users\Akash\Desktop\Cloudvandana_Assignment_Solution_Tejas_Sonawane\1. Profile-Card/index.html`, `1. Profile-Card/style.css`
 
 ---
 
